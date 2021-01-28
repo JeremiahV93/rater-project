@@ -1,0 +1,10 @@
+[
+    {
+        "model": "raterprojectapi.rateruser",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "bio": "So excited to play games"
+        }
+    }
+]
